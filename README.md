@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="140" src="assets/jake.gif"  />
+<img data-importer="image" align="right" src="assets/jake.gif"  />
 
 ###
 
